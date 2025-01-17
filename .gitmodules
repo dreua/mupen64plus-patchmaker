@@ -4,3 +4,6 @@
 [submodule "source/mupen64plus-audio-sdl"]
 	path = source/mupen64plus-audio-sdl
 	url = git@github.com:mupen64plus/mupen64plus-audio-sdl.git
+[submodule "source/mupen64plus-video-glide64mk2"]
+	path = source/mupen64plus-video-glide64mk2
+	url = git@github.com:mupen64plus/mupen64plus-video-glide64mk2.git
